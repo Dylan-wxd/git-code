@@ -1,0 +1,3 @@
+first commit
+exit
+:wq
